@@ -1,0 +1,4 @@
+pandas
+tqdm
+sentencepiece
+transformers==4.2.2
